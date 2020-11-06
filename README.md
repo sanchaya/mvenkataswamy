@@ -1,6 +1,6 @@
-# Dr. M. Venkataswamy Digital Kannada Books
+# Dr. M. Venkata Swamy Digital Kannada Books
 
-Dr. M. Venkataswamy Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+Dr. M. Venkata Swamy Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
 
 Check it out : https://sanchaya.org & https://sanchifoundation.org
 
@@ -30,3 +30,4 @@ The Digital Kannada Books website is licensed under the MIT license: http://www.
 Each book has its own licence, see book homepage.
 
 ## About us
+# Dr. M. Venkata Swamy
